@@ -8,12 +8,46 @@ h2{
 }
 @media (max-width: 700px ){
     #slogan-left{
-        text-align:left;
+        text-align:right;
     }
     #slogan-right{
-        text-align:right;
+        text-align:left;
     }
 h1{
     font-size:100px;
 }
+}
+      .picture1{
+        width:100%;
+        text-align:center;
+        display:block;
+      height:200px;
+      }
+      .picture2{
+        width:100%;
+        text-align:center;
+        display:block;
+        height:200px;
+      }
+      .picture3{
+          width:100%;
+        text-align:center;
+        display:block;
+        height:200px;
+      }
+      h5{
+        color:black;
+      }
+      p{
+        color:black;
+      }
+      .carousel-control-prev{
+        background-color:black;
+      }
+      .carousel-control-next{
+        background-color:black;
+      }
+h3{
+    font-family: 'Spicy Rice', cursive;
+    font-size:30px;
 }
