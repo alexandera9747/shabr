@@ -21,7 +21,7 @@ h1{
         width:100%;
         text-align:center;
         display:block;
-      height:300px;
+      height:250px;
       z-index: 1;
         
       }
@@ -29,7 +29,7 @@ h1{
         width:100%;
         text-align:center;
         display:block;
-        height:300px;
+        height:250px;
       z-index: 1;
         
       }
@@ -37,7 +37,7 @@ h1{
           width:100%;
         text-align:center;
         display:block;
-        height:300px;
+        height:250px;
       z-index: 1;
         
       }
@@ -47,13 +47,24 @@ h1{
       p{
         color:black;
       }
-      .carousel-control-prev{
+      .carousel-control-prev-icon{
         background-color:black;
       }
-      .carousel-control-next{
+      .carousel-control-next-icon{
         background-color:black;
       }
 h3{
     font-family: 'Spicy Rice', cursive;
     font-size:30px;
+}
+text2{
+  position:absolute;
+  top:600px;
+}
+text1{
+  position:absolute;
+  left:200px;
+}
+p{
+  text-align:left;
 }
