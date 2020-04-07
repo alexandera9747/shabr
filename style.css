@@ -71,3 +71,9 @@ p{
 .navbar{
   font-family: 'Spicy Rice', cursive;
 }
+body{
+  background-color:lightblue;
+}
+.exit{
+  text-align:left;
+}
